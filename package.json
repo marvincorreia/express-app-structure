@@ -1,0 +1,16 @@
+{
+  "name": "basic-express-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marvin Correia <marvin.correia@devgo.org>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
